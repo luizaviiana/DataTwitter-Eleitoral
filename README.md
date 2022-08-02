@@ -40,6 +40,8 @@
 - Nessa etapa podemos ter gráficos onde visualizamos o sentimento em relação aos principais candidatos.
 ![image](https://user-images.githubusercontent.com/88721668/182421306-87d1f8fb-7d21-429e-987b-6a40cbc37156.png)
 ![image](https://user-images.githubusercontent.com/88721668/182421399-6ebd78eb-ec76-4cf1-97e7-a49c028c9b28.png)
+![image](https://user-images.githubusercontent.com/88721668/182422265-1dd440d0-8156-4bf8-b451-3f9f13abaef1.png)
+
 
 ## **🚀** Etapa 5 - Deploy
 
