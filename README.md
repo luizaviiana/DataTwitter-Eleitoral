@@ -37,5 +37,17 @@
 ---
 
 - A Análise de Sentimento (ou mineração de opinião) é uma técnica do Processamento de Linguagem Natural usada para determinar se os dados são positivos, negativos ou neutros.
+- Nessa etapa podemos ter gráficos onde visualizamos o sentimento em relação aos principais candidatos.
+![image](https://user-images.githubusercontent.com/88721668/182421306-87d1f8fb-7d21-429e-987b-6a40cbc37156.png)
+![image](https://user-images.githubusercontent.com/88721668/182421399-6ebd78eb-ec76-4cf1-97e7-a49c028c9b28.png)
+
+## **🚀** Etapa 5 - Deploy
+
+---
+
+- Pode-se ter a visualização do dataframe através do site:
+- https://luizaviiana-datatwitter-eleitoral-prod-app-6ru74h.streamlitapp.com/
+
+
 
     
